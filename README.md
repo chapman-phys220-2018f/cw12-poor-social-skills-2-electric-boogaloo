@@ -2,7 +2,7 @@
 
 # PHYS220/MATH220/CPSC220 CW 12
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Trevor Kling**
 
 ## Specification
 
@@ -26,9 +26,7 @@ Your homework this week will be to finish this classwork assignment, and then us
 
 ## Assessment
 
-Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have. You can use the GitHub web interface to edit this file directly for now.
-
-**CHANGEME**
+In this assignment, I found troubleshooting to be most instructive.  I had many issues with getting the function to produce correct graphs; this was largely due to the way I was generating values versus how `pyplot` graphs them.  In the future, I will have to take output design into greater consideration when deciding how to approach a project.
 
 ## Honor Pledge
 
@@ -39,4 +37,4 @@ I pledge that all the work in this repository is my own with only the following 
 
 Signed,
 
-**YOURNAMES**
+**Trevor Kling**
